@@ -33,7 +33,8 @@
 
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
-| [📝 Task Manager App](https://github.com/msuarez011/task-manager) | App full-stack para gestión de tareas con diseño mobile-first | Node.js · Express · React |
+| [📝 Task Manager App](https://github.com/msuarez011/task-manager) | App fullstack en producción | React + Supabase + Railway/Vercel
+ | React · Vite · Node.js · Express · Supabase |
 | [🌍 Ciudades del Mundo](https://github.com/msuarez011/ciudades-mundo) | Explorador de ciudades del mundo | PHP · MySQL |
 | [⚙️ MC API Gateway](https://github.com/msuarez011/mc_apigateway) | API Gateway service | Python |
 
