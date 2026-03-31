@@ -3,7 +3,7 @@
 ## 👨‍💻 Sobre mí
 - 🎓 Ingeniero en Sistemas recién egresado — Fundación Universitaria de Popayán
 - 🌎 Cali, Colombia
-- 💼 Buscando prácticas o primer empleo como Desarrollador Web Junior
+- 💼 Buscando primer empleo como Desarrollador Web Junior
 - 🚀 Construyo proyectos fullstack reales desplegados en producción
 - 📚 Actualmente aprendiendo: TypeScript · Autenticación JWT
 
